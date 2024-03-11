@@ -1,7 +1,7 @@
 ### Hey !👋
 
 # 💫 About Me:
-🔭 I'm a University Student<br>👯 I’m looking to collaborate with industry professionals<br>🤝 Would like to help with open-source Projects<br>📍 Jalandhar, Punjab <br>🌱 I’m currently learning the Tech-Stack MERN<br>📧 Contact me at amanmalik3105@gmail.com<br>⚡ Fun fact: Learning Japanese since Feb of 2023<br><br>💼 Work Ethic: Work ethic is crucial to me. I believe if work<br> is completed systematically and transparently,  there will <br> be fewer issues and errors in the development period and<br> the quality of the project also elevates<br><br> <br>
+🔭 I'm a University Student<br>👯 I’m looking to collaborate with industry professionals<br>🤝 Would like to help with open-source Projects<br>📍 Jalandhar, Punjab <br>🌱 I’m currently learning the Tech-Stack MERN<br>📧 Contact me at amanmalik3105@gmail.com<br>⚡ Fun fact: Learning Japanese since Feb of 2023<br><br>💼 Work Ethic: Work ethic is crucial to me. I believe if work<br> is completed systematically and transparently,  there will <br> be fewer issues and errors in the development period and<br> the quality of the project elevates<br><br> <br>
 
 
 ## 🌐 Socials:
